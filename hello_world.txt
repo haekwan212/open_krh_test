@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hello
 hello2
 hello3
 hello4
+=======
+hello
+>>>>>>> parent of 7dadfa8... hello2
