@@ -2,6 +2,3 @@ hello
 hello2
 hello3
 hello4
-
-GIT 크다크다
-header
