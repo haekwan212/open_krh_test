@@ -16,4 +16,8 @@ KHKO edit
 
 chchchchch KHKO commit
 
+<<<<<<< Updated upstream
 ╫╨еб╫ц
+=======
+stas
+>>>>>>> Stashed changes
