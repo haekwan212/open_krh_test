@@ -3,8 +3,21 @@ hello2
 hello3
 hello4
 hello5
+KRH edit2
 
 hello6
 hello7
+hello77
 
 hello8
+KRH edit
+hello9
+KHKO edit
+
+chchchchch KHKO commit
+
+<<<<<<< Updated upstream
+╫╨еб╫ц
+=======
+stas
+>>>>>>> Stashed changes
