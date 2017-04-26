@@ -27,5 +27,7 @@ stas
 GIT 크다크다
 header
 >>>>>>> parent of 128244f... Revert "soft///"
+<<<<<<< HEAD
 
 12345678
+ABCD
